@@ -2,7 +2,7 @@
 
 Welcome! Thank you for applying for an engineering position @ Unbotify! In order for us to successfully evaluate your application, please do the following:
 
-1. Fork this repository under your GitHub user. You may make it a private repository if you prefer, in which case, please grant read access to `arikkfir` specifically.
+1. Fork this repository under your GitHub user. You may make it a private repository if you prefer, in which case, please grant read access to `georgehdd` specifically.
 
 2. Implement the exercise as described in [`BATTLESHIP_FIELD_DESIGNER.md`](BATTLESHIP_FIELD_DESIGNER.md), commit & push back the source code to your fork.
 
